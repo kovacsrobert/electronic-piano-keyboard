@@ -1,0 +1,11 @@
+
+TODO:
+- add arduino with single switch, write to serial console
+- add loudspeaker triggered by already added switch
+- add 2 more switch, using resistor ladder
+- add switch to switch between menu/keyboard mode
+- add LCD display, display note for keyboard mode, display menu text for menu mode
+- add potentiometer for LCD contrast control
+- add items to menu mode, use other 3 switch for navigation (left, enter, right)
+- add preset songs to menu mode
+- add IR remote control to play note and select song from menu
