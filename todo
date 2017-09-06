@@ -1,7 +1,11 @@
 
+DONE:
++ add arduino with single switch, write to serial console
+	https://www.arduino.cc/en/Reference/AnalogRead
+
 TODO:
-- add arduino with single switch, write to serial console
 - add loudspeaker triggered by already added switch
+	https://www.arduino.cc/en/Tutorial/PlayMelody
 - add 2 more switch, using resistor ladder
 - add switch to switch between menu/keyboard mode
 - add LCD display, display note for keyboard mode, display menu text for menu mode
